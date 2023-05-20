@@ -1,0 +1,5 @@
+openai:
+  image-generator:
+    url: https://api.openai.com
+    api-key: <YOUR-API-KEY>
+
